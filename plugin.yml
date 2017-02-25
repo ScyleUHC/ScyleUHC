@@ -1,0 +1,8 @@
+name: ScyleUHC
+version: 5.1
+author: xTimDevx and GirlJitske
+main: me.xtimdevx.scyleuhc.Main
+
+commands:
+   uhc:
+      usage: /<commands>
